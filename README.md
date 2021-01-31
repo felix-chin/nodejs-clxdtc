@@ -1,4 +1,4 @@
-# nodejs-coding-challenge
+# nodejs-clxdtc
 
 ## Development
 
@@ -7,6 +7,7 @@
 
 ### Instructions
   - To run this program in the command line, please enter the following:
+
     ```shell
     node index.js
     ```

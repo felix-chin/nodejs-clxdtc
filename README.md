@@ -12,4 +12,6 @@ A JavaScript function that iterates from 1 to 100 and prints a specific string i
   
   2. To run this program in the command line, please navigate to the current working directory and enter the following:
 
-    node index.js
+      ```shell
+      node index.js
+      ```

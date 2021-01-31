@@ -1,5 +1,7 @@
 # nodejs-clxdtc
 
+A JavaScript function that iterates from 1 to 100 and prints a specific string if the current iteration is a multiple of 3, 5, or 15. Otherwise, it prints the current number iterated.
+
 ## Development
 
 ### Requirements
